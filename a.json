@@ -1,0 +1,64 @@
+{
+  "0x1234567890abcdef1234567890abcdef12345678": {
+    "snapshotValue": "1000",
+    "allocatedValue": "10",
+    "proof": [
+      "0x890a2f343b8b12da66f27c8d6757427db888bb4ea5b18b38c54158452356c74b",
+      "0xfe59a21322c4d52aa8d0161530d15ba664660634a980b9e318caf916450c403e",
+      "0xa8fe3cff5f3563a035a0607ae98945517ffc72edc1a9cbe1b27a37af2ccb7035"
+    ]
+  },
+  "0xabcdefabcdefabcdefabcdefabcdefabcdefabcd": {
+    "snapshotValue": "2000",
+    "allocatedValue": "20",
+    "proof": [
+      "0xcd59cea1ff59c38c5e8839b4fac22d4940c6e1846dc51ef62fe95bffdf292ec5",
+      "0xfe59a21322c4d52aa8d0161530d15ba664660634a980b9e318caf916450c403e",
+      "0xa8fe3cff5f3563a035a0607ae98945517ffc72edc1a9cbe1b27a37af2ccb7035"
+    ]
+  },
+  "0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef": {
+    "snapshotValue": "1500",
+    "allocatedValue": "15",
+    "proof": [
+      "0x4c85004f9889aa0ee2fbe12cc879a6fe15447eaa4b2fe450adcf0e801fc7d09f",
+      "0xde651c542044a79adffd05daf69641a37eb9ab8c614bd244e2a828a85604a1c3"
+    ]
+  },
+  "0xfedcba9876543210fedcba9876543210fedcba98": {
+    "snapshotValue": "3000",
+    "allocatedValue": "30",
+    "proof": [
+      "0x479633cae71f56964c81c9873117177fed11a0463c6d404355938dcd972aa40c",
+      "0xec8f981133de5e385ebbd8abc6363bc90d9aff0e42afd92ac6d6db30fda7a5d0",
+      "0xde651c542044a79adffd05daf69641a37eb9ab8c614bd244e2a828a85604a1c3"
+    ]
+  },
+  "0x9876543210abcdef9876543210abcdef98765432": {
+    "snapshotValue": "2500",
+    "allocatedValue": "25",
+    "proof": [
+      "0x32af465d6df265121064062ac4de5c0b9708f3db8eee7a47c1c32986791d2579",
+      "0xec8f981133de5e385ebbd8abc6363bc90d9aff0e42afd92ac6d6db30fda7a5d0",
+      "0xde651c542044a79adffd05daf69641a37eb9ab8c614bd244e2a828a85604a1c3"
+    ]
+  },
+  "0x2b70AeE5A3a5af37066291e06DF46A721CDAfe69": {
+    "snapshotValue": "1000",
+    "allocatedValue": "10",
+    "proof": [
+      "0x62e141b124cfc2b82de6f76d442d4ed5dd855870c2cd2a36178a83d8c84f6429",
+      "0x02be8b78eb5a1dfb7f16b854862793a2e26061aad2da1437431f035d609bd260",
+      "0xa8fe3cff5f3563a035a0607ae98945517ffc72edc1a9cbe1b27a37af2ccb7035"
+    ]
+  },
+  "0x96deb17F59002d6987e53894246E37e0bdB567E1": {
+    "snapshotValue": "1200",
+    "allocatedValue": "12",
+    "proof": [
+      "0x668df169d9cd2ac3db3141c96bacb3c650b2096e04f17d8bb4e19840b262a57b",
+      "0x02be8b78eb5a1dfb7f16b854862793a2e26061aad2da1437431f035d609bd260",
+      "0xa8fe3cff5f3563a035a0607ae98945517ffc72edc1a9cbe1b27a37af2ccb7035"
+    ]
+  }
+}
